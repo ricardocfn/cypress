@@ -12,21 +12,19 @@ Antes de executar a instalação, certifique-se de ter o Node.js e o npm (ou yar
   ```git clone https://github.com/ricardocfn/usecypress.git```
 
 2. Navegue até o diretório do projeto:
-  cd usecypress
+ ``` cd usecypress```
 
 3. Instale as dependências:
-  npm init -y 
-  npm install cypress -D
+  ```npm init -y ```
+ ``` npm install cypress -D```
 
 4. Abra a interface do Cypress:
-  npx cypress open
+ ``` npx cypress open```
   
-5. Executando os Testes
-Para executar os testes Cypress, use o seguinte comando:
-
+5. Execute os Testes
 
 ## Estrutura do Projeto
-cypress/E2E/: Os testes E2E estão organizados neste diretório.
+cypress/E2E/: Os testes E2E estão organizados neste diretório, no formato .cy.js.
 cypress/support/: Arquivos de suporte, como comandos personalizados.
 cypress/plugins/: Plugins Cypress, se necessário.
 
