@@ -6,7 +6,7 @@ Desenvolvi o site com Python + Flask + MySQL apenas para finalidade de testes.
 
 ## Instalação
 
-Antes de executar a instalação, certifique-se de ter o Node.js e o npm (ou yarn) instalados na sua. Em seguida, siga estas etapas:
+Antes de executar a instalação, certifique-se de ter o Node.js instalado na sua. Em seguida, siga estas etapas:
 
 1. Clone o repositório:
   ```git clone https://github.com/ricardocfn/usecypress.git```
