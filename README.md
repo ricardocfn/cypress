@@ -25,7 +25,9 @@ Antes de executar a instalação, certifique-se de ter o Node.js e o npm (ou yar
 
 ## Estrutura do Projeto
 cypress/E2E/: Os testes E2E estão organizados neste diretório, no formato .cy.js.
+
 cypress/support/: Arquivos de suporte, como comandos personalizados.
+
 cypress/plugins/: Plugins Cypress, se necessário.
 
 ## Contribuição
