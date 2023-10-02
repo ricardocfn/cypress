@@ -1,6 +1,6 @@
 # Testes E2E com Cypress 
 
-Este repositório contém testes de ponta a ponta (E2E) desenvolvidos com o Cypress para validar o comportamento e front-end do site Projeto QA (https://web-n7xatwgy0el5.up-pl-waw1-1.apps.run-on-seenode.com/). Esses testes garantem que o site e suas funcionalidades funcione corretamente em diferentes cenários de uso, ajudando a manter a qualidade do software.
+Este repositório contém testes de ponta a ponta (E2E) desenvolvidos com o Cypress para validar o comportamento e front-end do site Projeto QA (https://web-n7xatwgy0el5.up-pl-waw1-1.apps.run-on-seenode.com/)). Esses testes garantem que o site e suas funcionalidades funcione corretamente em diferentes cenários de uso, ajudando a manter a qualidade do software.
 
 Desenvolvi o site com Python + Flask + MySQL apenas para finalidade de testes.
 
