@@ -1,6 +1,6 @@
 describe('Testes de validação de formulário', () => {
     beforeEach(() => {
-      cy.visit('https://web-n7xatwgy0el5.up-pl-waw1-1.apps.run-on-seenode.com/cadastro');
+      cy.visit('https://web-pme3nb3hljfw.up-es-mad1-1.apps.run-on-seenode.com/cadastro');
     });
   
     it('Deve exibir erro ao inserir um email inválido', () => {
@@ -29,7 +29,7 @@ describe('Testes de validação de formulário', () => {
     });
   
     it('Deve realizar o cadastro com sucesso', () => {
-      cy.visit('https://web-n7xatwgy0el5.up-pl-waw1-1.apps.run-on-seenode.com/');
+      cy.visit('https://web-pme3nb3hljfw.up-es-mad1-1.apps.run-on-seenode.com/');
     
       // Gerar valores aleatórios para os campos ISSO É UM MÁXIMO! AUTOMATIZAMOS O AUTOMÁTICO rsrsrs
       const nome = `Nome${Math.floor(Math.random() * 100000)}`;

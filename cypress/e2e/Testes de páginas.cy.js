@@ -1,6 +1,6 @@
 describe('Testes de páginas', () => {
     beforeEach(() => {
-      cy.visit('https://web-n7xatwgy0el5.up-pl-waw1-1.apps.run-on-seenode.com');
+      cy.visit('https://web-pme3nb3hljfw.up-es-mad1-1.apps.run-on-seenode.com/');
     });
   
     it('Deve exibir a página inicial corretamente', () => {
